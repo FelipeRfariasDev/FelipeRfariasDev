@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente dou aulas particulares, compartilhando os conhecimentos que tive desde 2009 [Aula Particular](https://profes.com.br/felipe.farias)
 
-- 🤝 Como parceiro de trabalho tenho [Renato Ferreira funcionava no mercado desde 2011](https://www.linkedin.com/in/renato-ferreira-4421b955/)
+- 🤝 Como parceiro de trabalho tenho [Renato Ferreira atuando no mercado desde 2011](https://www.linkedin.com/in/renato-ferreira-4421b955/)
 
 - 📫 Email **feliperfariasdev@gmail.com**
 
