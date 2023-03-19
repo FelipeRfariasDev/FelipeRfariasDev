@@ -1,7 +1,7 @@
 <h1 align="center">Muito prazer meu nome é Felipe R Farias</h1>
 <h3 align="center">Trabalho como desenvolvedor web desde 2009 -> FullStack | PHP | Angular | .Net C#</h3>
 
-- 🔭 Atualmente dou aulas particulares, compartilhando os conhecimentos que tive desde 2009 [Aula Particular](https://profes.com.br/felipe.farias)
+- 🔭 Atualmente dou aula particular através da plataforma profes [Aula Particular](https://profes.com.br/felipe.farias) e realizo algum freelancer quando aparece.
 
 - 🤝 Como parceiro de trabalho tenho [Renato Ferreira atuando no mercado desde 2011](https://www.linkedin.com/in/renato-ferreira-4421b955/)
 
