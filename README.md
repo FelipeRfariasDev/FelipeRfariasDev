@@ -3,8 +3,6 @@
 
 - 🔭 Atualmente dou aula particular através da plataforma profes [Aula Particular](https://profes.com.br/felipe.farias) e também atuo como freelancer.
 
-- 🤝 Como parceiro de trabalho tenho [Renato Ferreira atuando no mercado desde 2011](https://www.linkedin.com/in/renato-ferreira-4421b955/)
-
 - 📫 Email **feliperfariasdev@gmail.com**
 
 - 📄 Currículo em PDF [Clique Aqui](https://drive.google.com/file/d/165VpfQjfDlPKsfmUZFCZyiEZ8ElG4FjB/view?usp=share_link)
