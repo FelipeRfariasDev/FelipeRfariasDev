@@ -1,7 +1,7 @@
 <h1 align="center">Muito prazer meu nome é Felipe R Farias</h1>
 <h3 align="center">Trabalho como desenvolvedor web desde 2009 -> FullStack | PHP | Angular | .Net C#</h3>
 
-- 🔭  Realizo a prestação de serviços para criação de Sistemas/Sites/E-commerce e nas horas vagas gosto de dar aula particular através da plataforma  <a href="https://profes.com.br/felipe.farias" target="_blank">Profes</a>
+- 🔭  Realizo a prestação de serviços para criação de **Sistemas/Sites/E-commerce** e nas horas vagas gosto de dar **aula particular** através da plataforma  <a href="https://profes.com.br/felipe.farias" target="_blank">Profes</a>
 
 - 📫 Email **feliperfariasdev@gmail.com**
 
