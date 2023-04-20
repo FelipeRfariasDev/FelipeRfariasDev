@@ -5,8 +5,8 @@
 
 - 📫 Email **feliperfariasdev@gmail.com**
 
-<img align="center" src="https://static.licdn.com/sc/h/8s162nmbcnfkg7a0k8nq9wwqo" /> <a href="https://www.linkedin.com/in/desenvolvedor" target="_blank">Clique Aqui</a>
+<img align="center" src="https://static.licdn.com/sc/h/8s162nmbcnfkg7a0k8nq9wwqo" /> <a href="https://www.linkedin.com/in/desenvolvedor" target="_blank">Clique Aqui e conheça meu perfil no Linkedin</a>
 
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" /> <a href="https://www.youtube.com/@FelipeRodriguesFariasDev" target="_blank">Clique Aqui</a>
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" /> <a href="https://www.youtube.com/@FelipeRodriguesFariasDev" target="_blank">Clique Aqui e conheça meu perfil no Youtube</a>
 
 
